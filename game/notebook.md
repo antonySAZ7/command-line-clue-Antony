@@ -1,13 +1,13 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Librarian
-- [ ] The Chef
+- [x ] The Librarian
+- [ x] The Chef
 - [ ] The Police Officer
 
 ## Weapons
-- [ ] Wooden Box
-- [ ] Garden Shears
+- [ x] Wooden Box
+- [ x] Garden Shears
 - [ ] Walking Stick
 
 ## Notes
